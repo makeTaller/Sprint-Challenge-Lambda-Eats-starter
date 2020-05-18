@@ -1,0 +1,13 @@
+#+TITLE: Answers Sprint Challenge Single Page Application
+#+DESCRIPTION: Answers to questions on sprint
+
+1. In 1-2 sentences, explain what React's `useRouteMatch` hook is used for.
+   - 
+   
+2. How would you explain form validation to someone who has never programmed before?
+   - Validation is requiring infomation that needs to be passed into a field in order to 
+   - move forward with the rest of the process.
+    
+3. In 1-2 sentences, define end to end testing.
+   - end to end testing is making sure that every single component is working for the 
+   - customer from the backend to the frontend of the application. 
